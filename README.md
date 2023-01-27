@@ -31,6 +31,6 @@ I am Sakthi Uma, graduate student at NYU. Previously worked at Navis as a Softwa
 # You can reach me at:
 https://www.linkedin.com/in/sakthi-uma-maheswari-334b07163/
 
-# Do check out my medium posts:
+# Do check out my medium profile:
 https://medium.com/@sakthiumamaheswari
 
