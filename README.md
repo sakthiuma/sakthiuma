@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Sakthi Uma, graduate student at NYU. Previously worked at Navis as a Software Engineer for 3 years.
+I am Sakthi Uma, a graduate student at NYU. Previously worked at Navis as a Software Engineer for 3 years.
+
+# Some of my cool capstone projects done at New York University:
+1. Inshorts: news summary Java application https://github.com/sakthiuma/Inshorts
+2. Spotflix : cloud-based music application https://github.com/geetikabandlamudi/spotflix-backend
 
 # I’m currently focusing on 
 1. learning front-end technology (started with JavaScript)
