@@ -19,7 +19,9 @@ I am Sakthi Uma, a graduate student at NYU. Previously worked at Navis as a Soft
 
 # Some of my cool capstone projects done at New York University:
 1. Inshorts: news summary Java application https://github.com/sakthiuma/Inshorts
-2. Spotflix : cloud-based music application https://github.com/geetikabandlamudi/spotflix-backend
+2. Data analysis and prediction of diabetes using NY health census data https://github.com/sakthiuma/Data-science-Using-NY-health-census-data-to-analyze-and-predict-diabetes
+3. Spotflix: cloud-based music application https://github.com/geetikabandlamudi/spotflix-backend
+4. 
 
 # I’m currently focusing on 
 1. learning front-end technology (started with JavaScript)
